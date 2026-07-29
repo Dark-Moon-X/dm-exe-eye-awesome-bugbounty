@@ -191,6 +191,7 @@
 
 ### Fuzzing
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer
 - [ffuf](https://github.com/ffuf/ffuf) -  Fast web fuzzer written in Go
 - [fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
